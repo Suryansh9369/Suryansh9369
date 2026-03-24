@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Suryansh</h1>
+<h3 align="center">AI-ML Student | Robotics Enthusiast | Building Drones & Smart Systems 🚀</h3>
 
-<!--
-**Suryansh9369/Suryansh9369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE (AI-ML) student at BBDITM  
+- 🤖 Passionate about **Robotics, AI, and Automation**  
+- 🚁 Currently working on **Drone & Embedded Systems Projects**  
+- 💡 Interested in **Humanoid Robots & Real-World Problem Solving**  
+- 📈 Continuously improving in **Machine Learning & System Design**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- Python 🐍
+- C++
+- Java (Basics)
+
+### 🤖 AI / ML
+- Machine Learning
+- Data Analysis
+- Model Building
+
+### ⚙️ Hardware & Tools
+- ESP32 / Arduino
+- IoT Systems
+- Sensors & Embedded Systems
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### 🍀 Plant Disease Detection 
+- Build a web application for plant disease detection. 
+- Help farmers to increase life of plants.
+
+### 🛒 Vendor Invoice Portal
+- Build a internal AI-driven portal to predict freight cost and flagged vendor.  
+- Designed for imrpoving  cost forecasting accuracy, invoice fraud and anomalies.  
+
+### ☎️ Telecom Customer Churn Prediction
+- Build a platform to predict churn of customer.
+- Focused to learn customer behaviour to improve customer service.
+
+### 🏬Vendor Sales Analysis
+- Analyse customer data from different tables.
+- Focused on learning vendor transportations and purchasing patterns.
+
+### 🙎‍♂️ Customer Behaviour Analysis
+- Create a dashboard on analysis of customer behaviour.  
+- Focoused on learning customer behaviour.
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suryansh9369&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh9369&layout=compact&theme=tokyonight" />
+</p>
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/suryansh-vishwakarma-4a2a07282
+- 📧 Email: suryanshv16@gmail.com
+
+---
+
+## ⚡ What I'm Focused On Right Now
+- Building **Industry level ML projects**
+- Improving **AI/ML skills for real-world applications**
+- Working towards **internships in Data Analyst and Machine Learning**
+
+---
+
+## 🔥 Goal
+To become a **Data Analyst and ML Engineer** and build impactful technology-driven solutions.
+
+---
+
+⭐ *If you like my work, consider following me!*
