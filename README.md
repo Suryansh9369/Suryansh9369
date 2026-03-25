@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (AI-ML) student at BBDITM  
 - 🤖 Passionate about **Robotics, AI, and Automation**  
-- 🚁 Currently working on **Drone & Embedded Systems Projects**  
+- 🚁 Currently working on **Neural Networks and Computer vision**  
 - 💡 Interested in **Humanoid Robots & Real-World Problem Solving**  
 - 📈 Continuously improving in **Machine Learning & System Design**  
 
