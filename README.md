@@ -50,6 +50,10 @@
 - Built a data analytics pipeline to analyze historical commodity prices and identify profitable investment opportunities.
 - Performing EDA, feature engineering, predictive modeling, and interactive visualization using Python, SQL, and financial datasets.
 
+### 💡 ESP32 Smart Lamp
+- Developed a Wi-Fi-enabled smart lamp using ESP32 with a cloud-hosted web application deployed on Render for remote device control.
+- Implemented real-time ON/OFF switching and brightness control from any location through a responsive web interface, with a scalable architecture for adding future IoT features.
+
 ### 🛒 Vendor Invoice Portal
 - Build a internal AI-driven portal to predict freight cost and flagged vendor.  
 - Designed for imrpoving  cost forecasting accuracy, invoice fraud and anomalies.  
