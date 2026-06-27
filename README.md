@@ -38,9 +38,17 @@
 
 ## 🚀 Projects
 
-### 🍀 Plant Disease Detection 
-- Build a web application for plant disease detection. 
-- Help farmers to increase life of plants.
+### 🔧 AI-Based Predictive Maintenance & Failure Detection System *(Ongoing)*
+- Developing an end-to-end machine learning pipeline to predict machine failures using industrial sensor data.
+- Implementing data ingestion, preprocessing, model training, hyperparameter tuning, and deployment-ready architecture with logging and exception handling.
+
+### 🤖 AI-Powered LinkedIn Job Hunter Agent
+- Developed an AI agent to automate LinkedIn job search and rank opportunities based on resume-job similarity.
+- Integrated Playwright for automation, Streamlit for the interface, and Groq LLM for intelligent job scoring.
+
+### 📈 Commodity Price Analysis & Forecasting *(Ongoing)*
+- Built a data analytics pipeline to analyze historical commodity prices and identify profitable investment opportunities.
+- Performing EDA, feature engineering, predictive modeling, and interactive visualization using Python, SQL, and financial datasets.
 
 ### 🛒 Vendor Invoice Portal
 - Build a internal AI-driven portal to predict freight cost and flagged vendor.  
@@ -49,14 +57,6 @@
 ### ☎️ Telecom Customer Churn Prediction
 - Build a platform to predict churn of customer.
 - Focused to learn customer behaviour to improve customer service.
-
-### 🏬Vendor Sales Analysis
-- Analyse customer data from different tables.
-- Focused on learning vendor transportations and purchasing patterns.
-
-### 🙎‍♂️ Customer Behaviour Analysis
-- Create a dashboard on analysis of customer behaviour.  
-- Focoused on learning customer behaviour.
 ---
 
 ## 📊 GitHub Stats
